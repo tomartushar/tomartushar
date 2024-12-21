@@ -8,5 +8,4 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=tomartushar&theme=dark&hide_border=true">
   <!--   <br>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tomartushar&langs_count=8&layout=compact"> -->
-  
 </p>
